@@ -21,7 +21,7 @@
 title: benhooper.github.io
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
-"Sometimes blog and internet home of ben hooper"
+  "sometimes blog and internet home of ben hooper"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://benhooper.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _benhooper

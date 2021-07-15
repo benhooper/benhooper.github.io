@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-permalink: /work/
+permalink: 
 ---
 # I'm a network engineer at the Met Office...
 

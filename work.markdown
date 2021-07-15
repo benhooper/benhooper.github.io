@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Work
+title: 
 permalink: /work/
 ---
 # I'm a network engineer at the Met Office...
